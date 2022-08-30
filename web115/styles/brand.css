@@ -1,0 +1,19 @@
+html {
+	background-color: #fed8b1;
+	text-align: center;
+        color: LightGray
+	font-family: Verdana,serif;
+	list-style-position: inside;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
