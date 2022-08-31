@@ -1,8 +1,8 @@
 html {
-	background-color: #fed8b1;
+	background-color: #a9a9a9;
 	text-align: center;
-        color: LightGray
-	font-family: Verdana,serif;
+        color: #d3d3d3
+	font-family: Georgia,serif;
 	list-style-position: inside;
 }
 
@@ -12,14 +12,14 @@ h1 {
 
 h2 {
 
-      color: Green;
+      color: #800080;
       font-family: Monospace,serif;
       font-size: 30px;
 }
 
 p#tagline {
 font-style : italic;
-color : purple;
+color : #800080;
 }
 
 p {
